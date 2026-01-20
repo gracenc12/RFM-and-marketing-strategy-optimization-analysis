@@ -28,7 +28,7 @@ Marketing campaigns currently show **low acceptance rates** and rely heavily on 
 * Identify characteristics of **high-value customers**
 * Segment customers using **RFM analysis**
 * Evaluate **marketing campaign effectiveness**
-* Deliver **actionable business insights**
+* Deliver **actionable business insights and strategy recommendations** based on data.
 
 ---
 
