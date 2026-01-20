@@ -19,8 +19,7 @@ This project applies **data-driven analysis** to understand customer behavior, i
 Marketing campaigns currently show **low acceptance rates** and rely heavily on **mass marketing approaches**, leading to inefficient budget allocation and suboptimal revenue growth.
 
 **Key Question:**
-
-> How can **customer behavior be segmented and analyzed to improve marketing effectiveness, customer retention** to support revenue growth?
+- How can **customer behavior be segmented and analyzed to improve marketing effectiveness, customer retention** to support revenue growth?
 
 ---
 
