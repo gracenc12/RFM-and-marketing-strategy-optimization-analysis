@@ -63,5 +63,10 @@ The company currently relies on mass marketing campaigns with low effectiveness 
 
 ---
 
+## Dashboard:
+Link: [Dashboard](https://public.tableau.com/app/profile/gracenc/viz/RFMSegmentationMarketingCampaignAnalyticsDashboard/DB)
+
+---
+
 ## 👤 Author
 Grace Natalie Catherine | Data Analyst Portfolio Project
