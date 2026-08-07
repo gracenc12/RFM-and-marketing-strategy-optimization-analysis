@@ -42,7 +42,7 @@ The company currently relies on mass marketing campaigns with low effectiveness 
 
 ---
 
-## Conclusion & Recommendations
+## Business Recommendations
 - Implement **RFM-based segmentation** to replace mass marketing campaigns.
 - Apply **targeted and personalized strategies** for each customer segment.
 - Prioritize retention and revenue protection for high-value customers at risk of churn.
