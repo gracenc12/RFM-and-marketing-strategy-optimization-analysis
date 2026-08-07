@@ -58,8 +58,8 @@ The company currently relies on mass marketing campaigns with low effectiveness 
 
 ---
 
-## Key Takeaway
-RFM-driven segmentation enables more effective marketing campaigns, stronger customer retention, and better engagement to support sustainable revenue growth through data-driven decision making.
+## Conclusion
+RFM segmentation reveals distinct customer behaviors and enables more targeted marketing strategies. By focusing on high-value and at-risk customers, businesses can improve campaign effectiveness, strengthen customer retention, and drive sustainable revenue growth.
 
 ---
 
